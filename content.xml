@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260429120818AHJSRO</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260429120818LO63G3</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Creamos nuestro propio videojuego en Scratch: de usuarios a creadores digitales</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Programación de minijuegos en la plataforma de Scratch </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Elena Rey González</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Tarea en la que el alumnado de tercer ciclo de Primaria diseñará en pequeños grupos un minijuego interactivo en Scratch, aplicando nociones básicas de programación y trabajo cooperativo.
+A través de este proceso, desarrollará su competencia digital, la resolución de problemas y la capacidad para presentar oralmente el producto creado.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777457247632</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mojw5hqr-kpi3u6dss</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción (Tarea 2.1)</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción (Tarea 2.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción (Tarea 2.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción (Tarea 2.1)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojw5hqr-kpi3u6dss</odePageId>
+      <odeBlockId>block-1777386573127-m326eynbh</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojw5hqr-kpi3u6dss</odePageId>
+          <odeBlockId>block-1777386573127-m326eynbh</odeBlockId>
+          <odeIdeviceId>idevice-1777386573124-0l53io6zg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Pinchando en este enlace, se pueden observar los aspectos generales que describen este proyecto (Tarea 2.1.): <a href="https://canva.link/8d59f1qgqwqknve">https://canva.link/8d59f1qgqwqknve</a> </p>
+<p><img src="{{context_path}}/content/resources/Screenshot 2026-04-28 16.34.13.png" width="1178" height="749" alt="Aspectos generales de la tarea" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777386573124-0l53io6zg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Pinchando en este enlace, se pueden observar los aspectos generales que describen este proyecto (Tarea 2.1.): <a href=\"https://canva.link/8d59f1qgqwqknve\">https://canva.link/8d59f1qgqwqknve</a> </p>\n<p><img src=\"{{context_path}}/content/resources/Screenshot 2026-04-28 16.34.13.png\" width=\"1178\" height=\"749\" alt=\"Aspectos generales de la tarea\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojw5hqu-l584j14ty</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción de la tarea (Tarea 2.1)</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la tarea (Tarea 2.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la tarea (Tarea 2.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción de la tarea (Tarea 2.1)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojw5hqu-l584j14ty</odePageId>
+      <odeBlockId>block-1777387006718-z5ucz6zax</odeBlockId>
+      <blockName>Descripción de la tarea</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojw5hqu-l584j14ty</odePageId>
+          <odeBlockId>block-1777387006718-z5ucz6zax</odeBlockId>
+          <odeIdeviceId>idevice-1777387006714-swi5un0xu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A través de esta tarea, el alumnado diseñará y creará su propio videojuego en Scratch, partiendo de un modelo inicial trabajado mediante “Flipped classroom”.</p>
+<p> </p>
+<p>En casa, el alumnado visualizará vídeos breves donde se explican los conceptos básicos (movimiento, eventos, condicionales). En el aula, trabajarán en grupos cooperativos para:</p>
+<ul>
+<li>Analizar un modelo inicial.</li>
+<li>Modificarlo.</li>
+<li>Diseñar su propio proyecto original.<br /> </li>
+</ul>
+<p>Durante el proceso, se fomentará:</p>
+<ul>
+<li>La resolución autónoma de problemas técnicos.</li>
+<li>El pensamiento crítico.</li>
+<li>La búsqueda y selección de información.</li>
+<li>El trabajo cooperativo estructurado.<br /> </li>
+</ul>
+<p>El <strong>producto final</strong> será un minijuego funcional creado por cada grupo, que será presentado al resto de la clase.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777387006714-swi5un0xu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A través de esta tarea, el alumnado diseñará y creará su propio videojuego en Scratch, partiendo de un modelo inicial trabajado mediante “Flipped classroom”.</p>\n<p> </p>\n<p>En casa, el alumnado visualizará vídeos breves donde se explican los conceptos básicos (movimiento, eventos, condicionales). En el aula, trabajarán en grupos cooperativos para:</p>\n<ul>\n<li>Analizar un modelo inicial.</li>\n<li>Modificarlo.</li>\n<li>Diseñar su propio proyecto original.<br /> </li>\n</ul>\n<p>Durante el proceso, se fomentará:</p>\n<ul>\n<li>La resolución autónoma de problemas técnicos.</li>\n<li>El pensamiento crítico.</li>\n<li>La búsqueda y selección de información.</li>\n<li>El trabajo cooperativo estructurado.<br /> </li>\n</ul>\n<p>El <strong>producto final</strong> será un minijuego funcional creado por cada grupo, que será presentado al resto de la clase.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojw5hqv-dx54gi6rr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Justificación de la tarea (Tarea 2.1)</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación de la tarea (Tarea 2.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación de la tarea (Tarea 2.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojw5hqv-dx54gi6rr</odePageId>
+      <odeBlockId>block-1777387568806-bg9ep3ymj</odeBlockId>
+      <blockName>Justificación</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojw5hqv-dx54gi6rr</odePageId>
+          <odeBlockId>block-1777387568806-bg9ep3ymj</odeBlockId>
+          <odeIdeviceId>idevice-1777387568804-rjp43192b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta tarea surge a partir del análisis de mi práctica docente, en la que detecté tanto fortalezas como aspectos de mejora en el uso de Scratch mediante Flipped Classroom.</p>
+<p> </p>
+<p>Por un lado, mantengo<strong> elementos que han funcionado bien</strong>, como:</p>
+<ul>
+<li>El uso de Scratch como herramienta motivadora.</li>
+<li>El trabajo cooperativo.</li>
+<li>La utilización de modelos iniciales para facilitar el aprendizaje.<br /> </li>
+</ul>
+<p>Sin embargo, introduzco <strong>mejoras clave</strong> derivadas de mi reflexión:</p>
+<ul>
+<li>Mayor desarrollo de la autonomía: Antes tendía a intervenir demasiado ante problemas técnicos. En esta propuesta, incorporo estrategias específicas para que el alumnado aprenda a resolver errores por sí mismo.</li>
+<li>Mejora del enfoque flipped classroom: Incluyo mecanismos de seguimiento del trabajo en casa (cuestionarios breves, comprobación inicial).</li>
+<li>Modelo más abierto: evitando la simple reproducción y fomentando la creatividad.</li>
+<li>Trabajo cooperativo estructurado: Introduzco roles definidos dentro de los grupos (coordinador, programador, revisor), para evitar desigualdades en la participación.</li>
+<li>Desarrollo de la competencia digital: con  actividades donde el alumnado debe buscar información, seleccionar soluciones y aplicarlas a su proyecto.<br /> </li>
+</ul>
+<p>En conjunto, esta propuesta pretende no solo mejorar el uso de la tecnología en el aula, sino transformar la práctica docente hacia un enfoque más reflexivo, autónomo y centrado en el aprendizaje significativo del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777387568804-rjp43192b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta tarea surge a partir del análisis de mi práctica docente, en la que detecté tanto fortalezas como aspectos de mejora en el uso de Scratch mediante Flipped Classroom.</p>\n<p> </p>\n<p>Por un lado, mantengo<strong> elementos que han funcionado bien</strong>, como:</p>\n<ul>\n<li>El uso de Scratch como herramienta motivadora.</li>\n<li>El trabajo cooperativo.</li>\n<li>La utilización de modelos iniciales para facilitar el aprendizaje.<br /> </li>\n</ul>\n<p>Sin embargo, introduzco <strong>mejoras clave</strong> derivadas de mi reflexión:</p>\n<ul>\n<li>Mayor desarrollo de la autonomía: Antes tendía a intervenir demasiado ante problemas técnicos. En esta propuesta, incorporo estrategias específicas para que el alumnado aprenda a resolver errores por sí mismo.</li>\n<li>Mejora del enfoque flipped classroom: Incluyo mecanismos de seguimiento del trabajo en casa (cuestionarios breves, comprobación inicial).</li>\n<li>Modelo más abierto: evitando la simple reproducción y fomentando la creatividad.</li>\n<li>Trabajo cooperativo estructurado: Introduzco roles definidos dentro de los grupos (coordinador, programador, revisor), para evitar desigualdades en la participación.</li>\n<li>Desarrollo de la competencia digital: con  actividades donde el alumnado debe buscar información, seleccionar soluciones y aplicarlas a su proyecto.<br /> </li>\n</ul>\n<p>En conjunto, esta propuesta pretende no solo mejorar el uso de la tecnología en el aula, sino transformar la práctica docente hacia un enfoque más reflexivo, autónomo y centrado en el aprendizaje significativo del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojw5hqv-izmpc4e6q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Licencias y seguridad (Tarea 2.3)</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencias y seguridad (Tarea 2.3)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencias y seguridad (Tarea 2.3)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Licencias y seguridad (Tarea 2.3)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojw5hqv-izmpc4e6q</odePageId>
+      <odeBlockId>block-1777388059939-161cnssxa</odeBlockId>
+      <blockName>Infografía sobre seguridad digital</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojw5hqv-izmpc4e6q</odePageId>
+          <odeBlockId>block-1777388059939-161cnssxa</odeBlockId>
+          <odeIdeviceId>idevice-1777388059937-pc5fvz49f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, se muestra una infografía en la que se describen distintos consejos sobre seguridad digital que hay que tener en cuenta a la hora de buscar información en internet, proporcionar datos personales, publicar o utilizar la plataforma de Scratch. Enlace: https://canva.link/49ozdqly8o0br9r</p>
+<p><img src="{{context_path}}/content/resources/Screenshot 2026-04-28 16.52.31.png" width="460" height="903" alt="Infografía Seguridad Social" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777388059937-pc5fvz49f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, se muestra una infografía en la que se describen distintos consejos sobre seguridad digital que hay que tener en cuenta a la hora de buscar información en internet, proporcionar datos personales, publicar o utilizar la plataforma de Scratch. Enlace: https://canva.link/49ozdqly8o0br9r</p>\n<p><img src=\"{{context_path}}/content/resources/Screenshot 2026-04-28 16.52.31.png\" width=\"460\" height=\"903\" alt=\"Infografía Seguridad Social\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojw5hqw-l3yur3qzx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final (Tarea 4.1)</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final (Tarea 4.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final (Tarea 4.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Producto final (Tarea 4.1)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojw5hqw-l3yur3qzx</odePageId>
+      <odeBlockId>block-1777388707012-mzdvuuucg</odeBlockId>
+      <blockName>Describimos el Producto Final</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojw5hqw-l3yur3qzx</odePageId>
+          <odeBlockId>block-1777388707012-mzdvuuucg</odeBlockId>
+          <odeIdeviceId>idevice-1777388707010-j1vi1xnwv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hola chicos y chicas:</p>
+<p><br />Durante las próximas sesiones os vais a convertir en <strong>creadores de minijuegos</strong> utilizando <strong>Scratch</strong>.</p>
+<p>En pequeños grupos tendréis que diseñar un minijuego interactivo, en el que programaréis movimientos, añadiréis personajes y crearéis pequeños retos o niveles para poner en práctica lo aprendido en clase.<br /></p>
+<p>En cada sesión iréis completando un guion de trabajo compartido en <strong>Google Docs</strong>, donde recogeréis vuestras ideas, los avances del proyecto y las dificultades que vayáis encontrando. Al finalizar, cada grupo presentará su minijuego al resto de la clase en una breve exposición oral y explicará cómo lo ha creado y qué ha aprendido durante todo el proceso.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777388707010-j1vi1xnwv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hola chicos y chicas:</p>\n<p><br />Durante las próximas sesiones os vais a convertir en <strong>creadores de minijuegos</strong> utilizando <strong>Scratch</strong>.</p>\n<p>En pequeños grupos tendréis que diseñar un minijuego interactivo, en el que programaréis movimientos, añadiréis personajes y crearéis pequeños retos o niveles para poner en práctica lo aprendido en clase.<br /></p>\n<p>En cada sesión iréis completando un guion de trabajo compartido en <strong>Google Docs</strong>, donde recogeréis vuestras ideas, los avances del proyecto y las dificultades que vayáis encontrando. Al finalizar, cada grupo presentará su minijuego al resto de la clase en una breve exposición oral y explicará cómo lo ha creado y qué ha aprendido durante todo el proceso.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojw5hqx-ta3skge53</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenidos (Tarea 5.1)</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos (Tarea 5.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos (Tarea 5.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojw5hqx-ta3skge53</odePageId>
+      <odeBlockId>block-1777389093749-zn2mwm08l</odeBlockId>
+      <blockName>Enlace a Paddlet y Symbaloo</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojw5hqx-ta3skge53</odePageId>
+          <odeBlockId>block-1777389093749-zn2mwm08l</odeBlockId>
+          <odeIdeviceId>idevice-1777389093747-0m6wmkm8e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado, os voy a compartir un enlace a un espacio en Padlet donde tendréis reunidos diferentes tutoriales, vídeos y ejemplos de proyectos realizados en Scratch. Este recurso os servirá como apoyo durante todo el proceso, ya que podréis consultarlo siempre que necesitéis repasar algún aspecto de la programación o aprender nuevas posibilidades para vuestro juego.</p>
+<p>En este espacio encontraréis materiales para reforzar lo que vayamos trabajando en clase, como el uso de bloques, movimientos, sonidos o interacciones entre personajes. También os permitirá avanzar a vuestro propio ritmo, ya que cada grupo podrá revisar aquellos contenidos que más necesite en cada momento.</p>
+<p>Además de ayudaros técnicamente, este tablero también os servirá para inspiraros. Podréis ver ideas de otros minijuegos, observar diferentes formas de diseñar personajes o escenarios y pensar qué tipo de juego queréis crear. De esta forma, no solo tendréis una guía para resolver dudas, sino también una fuente de ideas para que vuestro proyecto sea más creativo, personal y original.</p>
+<p><strong>ENLACE</strong>: <a href="https://padlet.com/ereygon466/investigo-y-aprendo-sobre-scratch-cu8te2o291eie1mx">https://padlet.com/ereygon466/investigo-y-aprendo-sobre-scratch-cu8te2o291eie1mx </a></p>
+<p><br /></p>
+<p>Por otro lado, comparto un enlace donde reflejo que herramientas digitales forman parte de mi día a día a través de la plataforma de Symbaloo. </p>
+<p><strong>ENLACE:</strong> <a href="https://www.symbaloo.com/shared/AAAAA8-11e8AA41_W3NuDA==">https://www.symbaloo.com/shared/AAAAA8-11e8AA41_W3NuDA==</a> </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777389093747-0m6wmkm8e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado, os voy a compartir un enlace a un espacio en Padlet donde tendréis reunidos diferentes tutoriales, vídeos y ejemplos de proyectos realizados en Scratch. Este recurso os servirá como apoyo durante todo el proceso, ya que podréis consultarlo siempre que necesitéis repasar algún aspecto de la programación o aprender nuevas posibilidades para vuestro juego.</p>\n<p>En este espacio encontraréis materiales para reforzar lo que vayamos trabajando en clase, como el uso de bloques, movimientos, sonidos o interacciones entre personajes. También os permitirá avanzar a vuestro propio ritmo, ya que cada grupo podrá revisar aquellos contenidos que más necesite en cada momento.</p>\n<p>Además de ayudaros técnicamente, este tablero también os servirá para inspiraros. Podréis ver ideas de otros minijuegos, observar diferentes formas de diseñar personajes o escenarios y pensar qué tipo de juego queréis crear. De esta forma, no solo tendréis una guía para resolver dudas, sino también una fuente de ideas para que vuestro proyecto sea más creativo, personal y original.</p>\n<p><strong>ENLACE</strong>: <a href=\"https://padlet.com/ereygon466/investigo-y-aprendo-sobre-scratch-cu8te2o291eie1mx\">https://padlet.com/ereygon466/investigo-y-aprendo-sobre-scratch-cu8te2o291eie1mx </a></p>\n<p><br /></p>\n<p>Por otro lado, comparto un enlace donde reflejo que herramientas digitales forman parte de mi día a día a través de la plataforma de Symbaloo. </p>\n<p><strong>ENLACE:</strong> <a href=\"https://www.symbaloo.com/shared/AAAAA8-11e8AA41_W3NuDA==\">https://www.symbaloo.com/shared/AAAAA8-11e8AA41_W3NuDA==</a> </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojw5hqx-ruxyzvxhr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal (Tarea 7.1)</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal (Tarea 7.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal (Tarea 7.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojw5hqx-ruxyzvxhr</odePageId>
+      <odeBlockId>block-1777389627971-7uzpq06gu</odeBlockId>
+      <blockName>Secuenciación de las sesiones</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojw5hqx-ruxyzvxhr</odePageId>
+          <odeBlockId>block-1777389627971-7uzpq06gu</odeBlockId>
+          <odeIdeviceId>idevice-1777389627969-zvpbluhdx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, se muestra una línea del tiempo en la que se explica que se realizará en cada una de las sesiones que componen esta tarea y que recursos serán necesarios. </p>
+<p><img src="{{context_path}}/content/resources/Screenshot 2026-04-28 17.20.08.png" width="1241" height="640" alt="Línea temporal de las sesiones" /></p>
+<p><strong>ENLACE:</strong> <a href="https://canva.link/sfwg59bflmjuryg">https://canva.link/sfwg59bflmjuryg</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777389627969-zvpbluhdx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, se muestra una línea del tiempo en la que se explica que se realizará en cada una de las sesiones que componen esta tarea y que recursos serán necesarios. </p>\n<p><img src=\"{{context_path}}/content/resources/Screenshot 2026-04-28 17.20.08.png\" width=\"1241\" height=\"640\" alt=\"Línea temporal de las sesiones\" /></p>\n<p><strong>ENLACE:</strong> <a href=\"https://canva.link/sfwg59bflmjuryg\">https://canva.link/sfwg59bflmjuryg</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojw5hqy-izlnxcqhl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación (Tarea 6.1)</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación (Tarea 6.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación (Tarea 6.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojw5hqy-izlnxcqhl</odePageId>
+      <odeBlockId>block-1777389957800-qlct8os9g</odeBlockId>
+      <blockName>¿Cómo se va a evaluar la tarea?</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojw5hqy-izlnxcqhl</odePageId>
+          <odeBlockId>block-1777389957800-qlct8os9g</odeBlockId>
+          <odeIdeviceId>idevice-1777389957797-gtx6gvwvq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">También os comparto otro enlace donde podréis consultar de forma clara las tareas que iremos realizando en cada sesión del proyecto, para que sepáis en todo momento qué vamos a trabajar y qué se espera de vuestro grupo en cada fase.</p>
+<p style="text-align: justify;"><strong>ENLACE:</strong> <a href="https://docs.google.com/document/d/1gEKSdmTHM9Z4d0R-lTAL8MwRUTJVJmDRr8rjv-_dhF4/edit?usp=sharing">https://docs.google.com/document/d/1gEKSdmTHM9Z4d0R-lTAL8MwRUTJVJmDRr8rjv-_dhF4/edit?usp=sharing</a> </p>
+<p style="text-align: justify;">En ese espacio encontraréis organizada la información sobre qué actividad corresponde a cada sesión, qué herramienta vais a utilizar en cada momento y los criterios con los que se evaluará vuestro trabajo, tanto durante la creación del minijuego como en la presentación final. De esta manera, podréis conocer desde el principio cómo se valorará vuestro esfuerzo, vuestra participación en el equipo, el uso de Scratch y la forma en la que expliquéis el proceso seguido.</p>
+<p style="text-align: justify;">Tener esta información disponible os ayudará a planificar mejor vuestro trabajo, organizar las tareas dentro del grupo y ser más conscientes de vuestro propio aprendizaje a lo largo de todo el proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777389957797-gtx6gvwvq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">También os comparto otro enlace donde podréis consultar de forma clara las tareas que iremos realizando en cada sesión del proyecto, para que sepáis en todo momento qué vamos a trabajar y qué se espera de vuestro grupo en cada fase.</p>\n<p style=\"text-align: justify;\"><strong>ENLACE:</strong> <a href=\"https://docs.google.com/document/d/1gEKSdmTHM9Z4d0R-lTAL8MwRUTJVJmDRr8rjv-_dhF4/edit?usp=sharing\">https://docs.google.com/document/d/1gEKSdmTHM9Z4d0R-lTAL8MwRUTJVJmDRr8rjv-_dhF4/edit?usp=sharing</a> </p>\n<p style=\"text-align: justify;\">En ese espacio encontraréis organizada la información sobre qué actividad corresponde a cada sesión, qué herramienta vais a utilizar en cada momento y los criterios con los que se evaluará vuestro trabajo, tanto durante la creación del minijuego como en la presentación final. De esta manera, podréis conocer desde el principio cómo se valorará vuestro esfuerzo, vuestra participación en el equipo, el uso de Scratch y la forma en la que expliquéis el proceso seguido.</p>\n<p style=\"text-align: justify;\">Tener esta información disponible os ayudará a planificar mejor vuestro trabajo, organizar las tareas dentro del grupo y ser más conscientes de vuestro propio aprendizaje a lo largo de todo el proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojw5hqz-xpgiwqlyl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación (Tarea 8.1)</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación (Tarea 8.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación (Tarea 8.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojw5hqz-xpgiwqlyl</odePageId>
+      <odeBlockId>block-1777390960415-x22lgg6ev</odeBlockId>
+      <blockName>Rúbrica y Lista de cotejo.</blockName>
+      <iconName>calculate</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojw5hqz-xpgiwqlyl</odePageId>
+          <odeBlockId>block-1777390960415-x22lgg6ev</odeBlockId>
+          <odeIdeviceId>idevice-1777390960413-mc1gr648o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Utilizaré dos instrumentos de evaluación diferentes que me permitirán obtener información tanto del proceso de aprendizaje como del resultado final del alumnado.</p>
+<p><strong>ENLACE:</strong> <a href="https://docs.google.com/document/d/1EZXMS6aN3m_zaJzIWRHMzQcwo1PCwO9c3ZiWvgxQ-q4/edit?usp=sharing">https://docs.google.com/document/d/1EZXMS6aN3m_zaJzIWRHMzQcwo1PCwO9c3ZiWvgxQ-q4/edit?usp=sharing</a> </p>
+<p><br /><strong>1. Rúbrica de evaluación del minijuego y del trabajo cooperativo</strong></p>
+<p>● ¿Qué evaluaré? Este instrumento se utilizará durante las sesiones de diseño y creación del minijuego en Scratch. A través de esta rúbrica se valorarán: el uso adecuado de bloques de programación, el funcionamiento correcto del minijuego, la creatividad del producto, la resolución de problemas técnicos, la participación en el trabajo cooperativo y la responsabilidad dentro del grupo.</p>
+<p>● ¿Cuándo la utilizaré? Se aplicará durante el proceso de creación al finalizar el producto digital<br /></p>
+<p>● ¿Cómo obtendré la información? Los datos se recogerán mediante la observación directa del docente, la revisión del producto final y el seguimiento del documento compartido del grupo en Google Docs.<br /></p>
+<p>● ¿Cómo analizaré los resultados? La rúbrica me permitirá detectar dificultades comunes, identificar necesidades de apoyo, ofrecer retroalimentación individualizada y ajustar a futuras actividades.</p>
+<p><img src="{{context_path}}/content/resources/Screenshot 2026-04-28 17.48.20.png" width="778" height="796" alt="Rúbrica" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>2. Lista de cotejo para la exposición oral</strong></p>
+<p>● ¿Qué evaluaré? Este instrumento se utilizará en la presentación oral final del proyecto en la que exponen al resto de la clase su minijuego y los pasos seguidos. Se valorará si el alumnado explica el funcionamiento del juego, si describe el proceso seguido, si expone con claridad, si participan todos los miembros, si utiliza apoyo digital y si respeta el tiempo establecido para la exposición oral.</p>
+<p>● ¿Cuándo la utilizaré? Durante la exposición oral de cada grupo.</p>
+<p>● ¿Cómo obtendré la información? Mediante observación directa durante la presentación.</p>
+<p>● ¿Cómo analizaré los resultados? La lista de cotejo me permitirá comprobar si comprenden su propio trabajo, si saben comunicarlo y si existe una participación equilibrada entre los componentes del grupo.</p>
+<p><img src="{{context_path}}/content/resources/Screenshot 2026-04-28 17.50.14.png" width="613" height="347" alt="Lista" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777390960413-mc1gr648o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Utilizaré dos instrumentos de evaluación diferentes que me permitirán obtener información tanto del proceso de aprendizaje como del resultado final del alumnado.</p>\n<p><strong>ENLACE:</strong> <a href=\"https://docs.google.com/document/d/1EZXMS6aN3m_zaJzIWRHMzQcwo1PCwO9c3ZiWvgxQ-q4/edit?usp=sharing\">https://docs.google.com/document/d/1EZXMS6aN3m_zaJzIWRHMzQcwo1PCwO9c3ZiWvgxQ-q4/edit?usp=sharing</a> </p>\n<p><br /><strong>1. Rúbrica de evaluación del minijuego y del trabajo cooperativo</strong></p>\n<p>● ¿Qué evaluaré? Este instrumento se utilizará durante las sesiones de diseño y creación del minijuego en Scratch. A través de esta rúbrica se valorarán: el uso adecuado de bloques de programación, el funcionamiento correcto del minijuego, la creatividad del producto, la resolución de problemas técnicos, la participación en el trabajo cooperativo y la responsabilidad dentro del grupo.</p>\n<p>● ¿Cuándo la utilizaré? Se aplicará durante el proceso de creación al finalizar el producto digital<br /></p>\n<p>● ¿Cómo obtendré la información? Los datos se recogerán mediante la observación directa del docente, la revisión del producto final y el seguimiento del documento compartido del grupo en Google Docs.<br /></p>\n<p>● ¿Cómo analizaré los resultados? La rúbrica me permitirá detectar dificultades comunes, identificar necesidades de apoyo, ofrecer retroalimentación individualizada y ajustar a futuras actividades.</p>\n<p><img src=\"{{context_path}}/content/resources/Screenshot 2026-04-28 17.48.20.png\" width=\"778\" height=\"796\" alt=\"Rúbrica\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><strong>2. Lista de cotejo para la exposición oral</strong></p>\n<p>● ¿Qué evaluaré? Este instrumento se utilizará en la presentación oral final del proyecto en la que exponen al resto de la clase su minijuego y los pasos seguidos. Se valorará si el alumnado explica el funcionamiento del juego, si describe el proceso seguido, si expone con claridad, si participan todos los miembros, si utiliza apoyo digital y si respeta el tiempo establecido para la exposición oral.</p>\n<p>● ¿Cuándo la utilizaré? Durante la exposición oral de cada grupo.</p>\n<p>● ¿Cómo obtendré la información? Mediante observación directa durante la presentación.</p>\n<p>● ¿Cómo analizaré los resultados? La lista de cotejo me permitirá comprobar si comprenden su propio trabajo, si saben comunicarlo y si existe una participación equilibrada entre los componentes del grupo.</p>\n<p><img src=\"{{context_path}}/content/resources/Screenshot 2026-04-28 17.50.14.png\" width=\"613\" height=\"347\" alt=\"Lista\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojw5hr0-ln2h0urzp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojw5hr0-ln2h0urzp</odePageId>
+      <odeBlockId>block-1777391640110-6mvnrn418</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojw5hr0-ln2h0urzp</odePageId>
+          <odeBlockId>block-1777391640110-6mvnrn418</odeBlockId>
+          <odeIdeviceId>idevice-1777391640107-x1sclcqy7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777391640107-x1sclcqy7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mojw5hr0-ln2h0urzp</odePageId>
+          <odeBlockId>block-1777391640110-6mvnrn418</odeBlockId>
+          <odeIdeviceId>idevice-1777457288562-p5i3fd9p1</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Creamos nuestro propio videojuego en Scratch: de usuarios a creadores digitales</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Tarea en la que el alumnado de tercer ciclo de Primaria diseñará en pequeños grupos un minijuego interactivo en Scratch, aplicando nociones básicas de programación y trabajo cooperativo.
+A través de este proceso, desarrollará su competencia digital, la resolución de problemas y la capacidad para presentar oralmente el producto creado.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Elena Rey González</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mojw5hr0-cd6wgks8e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica </pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mojw5hr0-cd6wgks8e</odePageId>
+      <odeBlockId>block-1777391913348-6ekbcr7g8</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mojw5hr0-cd6wgks8e</odePageId>
+          <odeBlockId>block-1777391913348-6ekbcr7g8</odeBlockId>
+          <odeIdeviceId>idevice-1777391913346-6aaenuz52</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este último apartado, comparto enlace del documento donde se recoge la recopilación y relación de criterios de evaluación con las tareas del proyecto.</p>
+<p><strong>ENLACE:</strong> <a href="https://docs.google.com/document/d/1gEKSdmTHM9Z4d0R-lTAL8MwRUTJVJmDRr8rjv-_dhF4/edit?usp=sharing">https://docs.google.com/document/d/1gEKSdmTHM9Z4d0R-lTAL8MwRUTJVJmDRr8rjv-_dhF4/edit?usp=sharing</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777391913346-6aaenuz52","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este último apartado, comparto enlace del documento donde se recoge la recopilación y relación de criterios de evaluación con las tareas del proyecto.</p>\n<p><strong>ENLACE:</strong> <a href=\"https://docs.google.com/document/d/1gEKSdmTHM9Z4d0R-lTAL8MwRUTJVJmDRr8rjv-_dhF4/edit?usp=sharing\">https://docs.google.com/document/d/1gEKSdmTHM9Z4d0R-lTAL8MwRUTJVJmDRr8rjv-_dhF4/edit?usp=sharing</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
